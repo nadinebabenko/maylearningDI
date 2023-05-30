@@ -1,0 +1,29 @@
+* {
+margin:5px;
+padding: 5px;
+
+}
+.global {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: end;
+   align-items: flex-end;
+
+}
+.box1 {
+
+    border: 5px solid  coral; 
+    width: 40%;
+    
+}
+
+.box2 {
+width: 10%;
+border: 5px solid  coral;
+}
+
+.box3 {
+border: 5px solid  coral;
+ width: 40%;
+}

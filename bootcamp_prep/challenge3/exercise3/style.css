@@ -1,0 +1,40 @@
+.mock3 {
+    border: 2px solid black;
+    width: auto;
+    padding: 0.1%;
+    font-family: 'Tilt Prism', cursive;
+    width: 98%;
+    margin-left: 2px;
+    }
+    .green {
+        display: flex;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        flex-wrap: wrap;
+        flex-direction: row;   
+        margin-top: 5%;
+        margin-left: 2%;
+        padding: 0.1%;    
+        border: 2px solid black;
+        background-color: greenyellow;
+        width: 95%;        
+    }
+    .tree {
+display: flex;
+max-width: 250px;
+max-height: 300px;
+float: left;
+border: 2px solid black;
+margin-top: 2%;
+margin-left: 2%;
+    }
+    .tree2 {
+        display: flex;
+max-width: 250px;
+max-height: 300px;
+float: left;
+border: 2px solid black;
+margin-top: 2%;
+margin-left: 2%;
+
+
+    }

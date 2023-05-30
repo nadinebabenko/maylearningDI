@@ -1,0 +1,57 @@
+body {
+background-image: url(lan.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+ 
+}
+.logo {
+height: 45px;
+float: left;
+margin-left: 0%;
+padding-left: 0%;
+padding-top: 0%;
+margin-top: 0%;
+}
+li {
+display: inline-block;
+float: right;
+color: white;
+padding: 10px;
+margin-top: 0%;
+list-style-type: none;
+ 
+ 
+ }
+ li:hover {
+    background-color: blueviolet;
+    text-decoration: underline;
+    cursor: wait;
+
+ }
+  nav {
+    display: inline-block;
+     font-size: 25px;
+     background-color: black;
+     width: 100%;
+     padding: 2px;  
+     margin-top: 0%;
+     padding-top: 0%;
+     position: static;
+   
+  }
+h1 {
+    font-family: 'Rubik Iso', cursive;
+    font-size: 60px;
+    text-align: left;
+    margin-top: 15%;
+    text-decoration: underline;
+
+}
+footer {
+float: left; 
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+width: 35%;
+color: black;
+margin-left: 45px;
+}

@@ -1,0 +1,38 @@
+body {
+   background-image: url(flower.jpeg); 
+   background-size: cover;
+}
+
+h2 {
+color: aqua;
+}
+p  {
+    color: aquamarine;
+    border: 5px dotted gold;
+    width: 50%;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    ul {
+      list-style: none;  
+      color: black;
+      
+    }
+    li {
+        display: inline-block;
+        font-family: 'Kanit', sans-serif;
+    }
+    img {
+        float: left;
+        text-align: center;
+    }
+    footer {
+        clear: both; }
+    
+div {
+border: 5px solid green;
+display: inline-block;
+padding: 20px;
+margin: 20px;
+}

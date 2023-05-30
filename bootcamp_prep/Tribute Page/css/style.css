@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+  background-color: #8FC1B5;
+  }
+
+body {
+  background-image: linear-gradient(to Ttop,#9AEBA3(117, 132, 132), #9AEBA3);
+  font-family: 'Martian Mono', monospace;
+  height: 100vh;
+     
+}
+.card {
+  align-items: center;
+  background-color: lightgray;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+}
+.nav-item {
+  align-self: flex-end;
+  color: #3d6ded;
+}
+
+.page-wrapper {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+
+.profile-image {
+  display: flex;
+  float: left;
+  border-radius: 200%;
+  height: 350px;
+  width: 350px;
+   
+}
+h1, h2{
+  font-size: larger;
+  max-width: 14rem;
+  border-radius: 4px;
+  max-width: 50rem;
+  background-color: transparent;
+   
+}
+#NadineBabenko {
+  font-family: 'Martian Mono', monospace;
+  font-size: larger;
+  text-align:center;
+  color: #FF4858;
+  font-style: italic;
+}
+
+
+a::before, a::after {
+  content: "";
+  height: 4px;
+  background: #32557f;
+  display: block;
+  transition: width 0.3s ;ease-in-out;
+  margin: 0 auto;
+
+}
+a:link {
+font-weight: bold;
+color: #10454F;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:visited {
+color: #9FC131;
+font-size: 2rem;
+font-weight: normal;
+}
+a:hover {
+color: #D6D58E;
+text-decoration:none;
+background-color: #005C53;
+animation-duration: 3s;
+animation-name: psychadelic;
+animation-iteration-count: infinite;
+}
+@keyframes psychadelic {
+  100% {
+    filter: hue-rotate(360deg);
+  } 
+}
+nav ul {
+  padding:10px;
+width:50;
+   text-align:center;
+   
+}
+.nadine {
+margin: 0;  
+padding: 4px;  
+ 
+}
+
+.neutro {
+  list-style-type: none;
+  display:inline-block;
+  text-align: center;
+ }
+nav li {
+font-style: italic;
+margin-bottom: 1rem;
+font-size: 2rem; 
+padding:2px;
+margin-left:0;
+border: 5px solid #45C4B0;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+background-color: #DAFDBA;
+list-style-type: none;
+    
+}
+ 
+li {
+border: 3px  #042940;
+margin:3px;
+flex-basis:10%;
+text-align:center;
+font-family: 'Martian Mono', monospace;
+}
+
+nav a {
+text-decoration: none;
+font-weight: bold;
+font-style:italic;
+display:block;
+}
+.music {
+display: flex;
+float: inline-start;
+margin: 3%;
+}
+footer {
+text-align: center;  
+clear: both;
+ 
+ 
+}
+.main-nav {
+  background-color: black;
+  color:white;
+}
+.bamba {
+  font-size: 50px;
+  cursor: grab;
+}
+
+.image-gallery {
+  border: 2px solid black;
+}
+ 
+

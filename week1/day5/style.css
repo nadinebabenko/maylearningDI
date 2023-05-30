@@ -1,0 +1,57 @@
+body {
+    background: url(moun.jpg);
+    background-size: cover;
+}
+.main {
+background-color: bisque;
+width: 98%;
+padding: 5px;
+text-align: right;
+font-family: 'Sono', sans-serif;
+background: linear-gradient(to bottom right, rgb(108, 108, 237), rgb(38, 151, 188));
+}
+
+.per {
+float: left;
+}
+
+a:hover {
+    background-color: rgb(110, 213, 179);
+}
+
+img {
+    margin-left: 44%;
+   margin-right: 50%;
+   margin-top: -50px;
+    border-radius: 300px;
+    height: 300px;
+    width: 300px;
+}
+h1 {
+    margin-top: 5px;
+    text-align: center;
+    color: antiquewhite;   
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    margin-top: 150px;     
+}
+.images2 {
+float: right;
+margin-top: 150px;     
+}
+.center {
+    text-align: center;
+    margin-left: 70px;
+}
+footer {
+    
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+    color: beige;
+    font-size: 20px;
+    
+}

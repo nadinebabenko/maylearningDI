@@ -1,0 +1,32 @@
+* {
+    
+    padding:  5px;
+}
+
+
+.global {
+    display: flex;
+   flex-direction: row;
+   text-align: center;
+   color: azure;
+
+
+}
+.box1 {
+ 
+background-color: blue;
+width: 5%;
+
+}
+.box2 { 
+background-color: aquamarine;
+width: 20%;
+
+    
+}
+.box3 { 
+background-color: brown;
+width: 40%;
+
+     
+}

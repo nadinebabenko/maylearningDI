@@ -1,0 +1,32 @@
+body {
+    background-color: brown;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    border: 5px dashed black;
+    text-align: center;
+    margin: 20px;
+}
+#wrap {
+   text-align: center; 
+   border: 5px dashed black;
+    
+   margin: auto;
+   margin-top: 20px;
+   background-color: beige;
+   padding: -5px;
+   display: block;
+    
+}
+li {
+    list-style-type: none;
+    text-align: center;
+}
+    li::first-letter{
+        font-weight: bold;
+        text-transform: uppercase;}
+        p {
+            text-align: left;
+             
+        }

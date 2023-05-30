@@ -1,0 +1,1 @@
+const numbersthing = (a,b) => a + b

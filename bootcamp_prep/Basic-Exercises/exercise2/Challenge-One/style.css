@@ -1,0 +1,14 @@
+body {
+background-color: aquamarine;
+}
+ 
+li {
+    list-style-type: none;
+    text-align: center;
+}
+    li::first-letter{
+        color: blue;
+        text-transform: uppercase;}
+        
+   
+  

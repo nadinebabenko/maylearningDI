@@ -1,0 +1,23 @@
+.number1 {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.number2 {
+color: blue;
+font-size: 36px;
+}
+
+.number3 {
+font-size: 24px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#number4 {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+p {
+background-color: lightcoral;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

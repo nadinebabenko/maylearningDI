@@ -1,0 +1,17 @@
+.card {
+   text-align: center; 
+ 
+}
+.card-body {
+   background-color: beige;
+}
+.btnnew {
+   padding: 3px;
+   margin-top: 4px;
+}
+.btnnew:hover {
+   background-color: bisque;
+}
+.navbar {
+  color: azure;
+}

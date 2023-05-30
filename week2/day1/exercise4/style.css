@@ -1,0 +1,30 @@
+* {
+    margin: 3px;
+    padding: 3px;
+}
+
+.global {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+   
+}
+
+.box1 {
+border: 5px solid black;
+flex-grow: : 1;
+ 
+
+}
+
+.box2 {
+    border: 5px solid black;
+    flex-grow: 1;
+
+
+}
+
+.box3 {
+    border: 5px solid black;
+
+}

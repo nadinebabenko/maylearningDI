@@ -1,0 +1,28 @@
+ 
+.card-body {
+    background-color: grey;
+}
+h5 {
+    font-size:20px ;
+}
+.container {
+margin-left: 2%;
+padding: 1px;
+border: 3px solid black;
+height: 190px;
+}
+h3 {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.coling {
+    margin-left: 25%; 
+    margin-top: -160px;
+    width: 60%;
+   
+}
+.lorem {
+
+    font-family: 'Bebas Neue', cursive;
+}

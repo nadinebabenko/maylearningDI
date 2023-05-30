@@ -1,0 +1,25 @@
+.para {
+    color: red;
+    font-weight: 40px;
+    font-weight: bold;
+    }
+   p {
+    font-weight: 20px;
+    color: red;
+   }
+   #confirm-button {
+    background-color: green;
+    font-weight: bold;
+   }
+   .buttoncancel {
+    background-color: aliceblue;
+    font-weight: bold;
+   }
+   .text {
+color: green;
+font-weight: 30px;
+
+   }
+   div {
+color: red;
+  }

@@ -1,0 +1,89 @@
+.evrything {
+    display: flex;
+    float: left;
+    width: 300px;
+    height: 47%;
+    padding: 1em;
+    padding-top: 0%;
+   flex-direction: column; 
+       
+}
+
+h1 {
+   color: black;
+   text-align: center;
+   font-family: 'Rubik Iso', cursive;
+   font-size: 40px;
+   font-weight: bold;
+
+   }
+   #email {
+    margin: 0.1px;
+    padding: 6px;
+    background-color: beige;  
+    border: none;
+  
+   }
+   #password {
+    margin: 0.1px;
+    padding: 6px;
+    background-color: beige;  
+    border: none;
+   }
+   .remember {
+    padding: 6px;
+    font-size: 13px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 8px;   
+   }
+    #subscribe {
+    margin-left: 0%; 
+   }
+   button {
+    margin-top: 20px;
+    padding: 6px;
+    background: linear-gradient(to bottom right, rgb(173, 4, 251), rgb(26, 25, 27));
+    color: beige;
+    font-family: 'Rubik Iso', cursive;
+    font-size: 20px;
+    border: none;
+   }
+  
+  p {
+    text-align: center;
+    font-family: 'Rubik Iso', cursive;
+  }
+
+  .symbols {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    
+  }
+.color {  
+margin-left: 200px;
+border-left: 1px solid gray;
+padding: 1em;
+padding-top: 0%;
+width: 30em;
+height: 25em;
+background: linear-gradient(to bottom right, rgb(173, 4, 251), rgb(26, 25, 27));
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+color: aliceblue;
+}
+.enter {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.regist {
+border-radius: 25px;
+border: 5px solid beige;
+padding: 2%;
+}
+footer {
+    clear: both;
+}

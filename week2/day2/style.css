@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 200px 200px;
+   grid-template-rows: auto;
+    gap: 5px;
+    grid-template-areas: 
+    "header header"
+    "hero main "
+    "hero main "
+    "sidebar main "
+    "sidebar content2 "
+    "footer footer "
+    ;    
+
+}
+.header {
+    background-color: aqua;
+    grid-area: header;
+      
+}
+.hero {
+    background-color: rgb(171, 42, 81);
+    grid-area: hero;
+  
+    height: 60px;
+}
+.main {
+    background-color: rgb(20, 70, 132);
+    grid-area: main;
+    height: 90px;
+}
+.sidebar {
+    background-color: blueviolet;
+    grid-area: sidebar;
+    height: 90px;
+}
+.content2 { 
+    background-color: brown;
+    grid-area: content2;
+    height: 65px;
+}
+.footer {
+    grid-area: footer;
+    background-color: rgb(210, 118, 31);
+}
