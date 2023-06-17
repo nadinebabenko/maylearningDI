@@ -1,18 +1,6 @@
---CREATE TABLE FirstTab (
-  --   id integer, 
-   --  name VARCHAR(10)
---) ;
---INSERT INTO FirstTab VALUES
---(5,'Pawan'),
---(6,'Sharlee'),
---(7,'Krish'),
---(NULL,'Avtaar');
- 
---CREATE TABLE SecondTab (
-    --id integer 
---);
---INSERT INTO SecondTab VALUES
---(5),
---(NULL);
---SELECT * FROM SecondTab
-
+--select * from items order  by price ASC;
+ --select * from items order  by price DESC;
+  --select * from items where price >= 80 order  by price  DESC;
+   --select first_name, last_name from customers order  by first_name ASC limit 3;
+  select  last_name from customers order  by last_name DESC;
+   
