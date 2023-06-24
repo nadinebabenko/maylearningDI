@@ -37,7 +37,7 @@ return res.render("index.ejs",  {items: items})
   title == null ? getPostsInCategory(category): getPostsThatContainTItle(title);
     res.render("index.ejs", { items:  itemsToReturn });    
     }
-
+n
     function getPostsInCategory(category) {
         return items.filter((item) => {    
             const categories = item.categories;
