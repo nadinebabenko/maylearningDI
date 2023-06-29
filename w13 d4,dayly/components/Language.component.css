@@ -1,0 +1,13 @@
+.language {
+    display:flex;
+    text-align: center;
+    grid-template-columns:repeat(3,1fr);
+    background-color: beige ;
+    justify-content: center;
+}
+
+.languages {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}

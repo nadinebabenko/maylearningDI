@@ -1,9 +1,0 @@
-POST http://localhost:3000/items
-Content-Type: application/json
-
-{
-"item": "piano",
-"quantity":5
-}
-####
-GET   http://localhost:3000/items
