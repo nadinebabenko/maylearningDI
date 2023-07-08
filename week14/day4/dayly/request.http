@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/world
+
+Content-Type: application/json
+
+{
+  "name": "Nadya"
+}
